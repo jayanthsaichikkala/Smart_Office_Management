@@ -4,6 +4,10 @@ padha chusukundhaaam.....
 o stri kal aana
 
 arey babbu cheppindhi vinaraaa
+<<<<<<< HEAD
+conflict.txt
+=======
 conflict.txt
 
 
+>>>>>>> 7f54d0d4af1b38e6e757763c048e676f86121c85
